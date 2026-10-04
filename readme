@@ -1,7 +1,11 @@
-echo "# vutum-labs.github.io" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/vutum-labs/vutum-labs.github.io.git
-git push -u origin main
+---
+layout: home
+title: "Welcome to Vutum Labs"
+---
+
+# Vutum Labs Blog 🚀
+
+Welcome to my personal blog hosted on GitHub Pages! I will be sharing my projects, technical notes, and development journeys here.
+
+### 📝 Latest Posts
+Look below or check the navigation to see my recent updates!
